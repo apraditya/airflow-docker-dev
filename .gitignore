@@ -1,0 +1,8 @@
+.DS_Store
+.env
+
+# Ignore all logfiles and tempfiles, but keep the directory
+/logs/*
+/tmp/*
+!/logs/.keep
+!/tmp/.keep
