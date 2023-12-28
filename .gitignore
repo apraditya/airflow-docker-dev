@@ -1,5 +1,8 @@
 .DS_Store
 .env
+.null-ls*
+
+*/**/__pycache__/*
 
 # Ignore all logfiles and tempfiles, but keep the directory
 /logs/*
